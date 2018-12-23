@@ -1,4 +1,4 @@
-# pedanetArviointi
+# pedanet Arviointi
 
 Instructions and manual is found in Finnish:
 
