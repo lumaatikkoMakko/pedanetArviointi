@@ -2,4 +2,4 @@
 
 Instructions and manual is found in Finnish:
 
-wwww.luntti.net/
+http://www.luntti.net/programming/pedanetArviointi/
