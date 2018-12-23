@@ -449,7 +449,7 @@ tul.append( ['P1','P2' ,'P3', 'nisäkkäät', 'lajit'] )
 
 <a href="img/peda123.png"><img src="img/peda123.png" class="u-full-width"></a>
 
-<p>Koodi löytyy Githubista &mdash; aina uusin ja toimivin versio. Luultavasti virheitä löytyy.</p>
+<p>Koodi löytyy <a href="https://github.com/lumaatikkoMakko/pedanetArviointi">Githubista</a> kohdasta <a href="https://raw.githubusercontent.com/lumaatikkoMakko/pedanetArviointi/master/python/pedatesti.py">Raw pedatesti.py</a>&mdash; aina uusin ja toimivin versio. Luultavasti virheitä löytyy.</p>
 
 
 
